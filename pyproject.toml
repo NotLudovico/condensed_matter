@@ -1,0 +1,13 @@
+[project]
+name = "condensed-matter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "marimo>=0.14.10",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "quspin>=1.0.0",
+    "ruff>=0.12.2",
+]
